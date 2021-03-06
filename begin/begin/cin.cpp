@@ -4,8 +4,8 @@ using namespace std;
 int main()
 {
 	int floatNumber = 0;
-	cout << "Please input a Number" << endl;
+	cout << "Please input a Number: " << endl;
 	cin >> floatNumber;
-	cout << "Varius = " << floatNumber << endl;
+	cout << "Value is: " << floatNumber << endl;
 	return 0;
-}
+} 
