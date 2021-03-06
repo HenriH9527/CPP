@@ -1,1 +1,13 @@
-/begin/
+/.vs/
+/begin/begin/Debug/
+
+*.sln
+*.exe
+*.ilk
+*.pdb
+*.vcxproj
+*.filters
+*.user
+*.suo
+*.*db*
+*.ipch
